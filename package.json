@@ -1,6 +1,6 @@
 {
 	"name": "class-evented",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Simple class evented",
 	"author": {
 		"name": "Zlatko Fedor",
@@ -35,7 +35,7 @@
 		"url": "https://github.com/seeden/class-emit/issues"
 	},
 	"dependencies": {
-		"class-extender": "~1.0.5",
+		"class-extender": "~1.0.6",
 		"class-emit": "~1.0.1"
 	},
 	"devDependencies": {

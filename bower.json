@@ -1,7 +1,7 @@
 {
 	"name": "class-evented",
 	"description": "Simple class evented",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"keywords": [
 		"class",
 		"emit",
@@ -15,7 +15,7 @@
 		".*"
 	],
 	"dependencies": {
-		"class-extender": "~1.0.5",
+		"class-extender": "~1.0.6",
 		"class-emit": "~1.0.1"
 	},
 }
