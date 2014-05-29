@@ -1,0 +1,21 @@
+{
+	"name": "class-evented",
+	"description": "Simple class evented",
+	"version": "1.0.0",
+	"keywords": [
+		"class",
+		"emit",
+		"on",
+		"amd"
+	],
+	"main": [
+		"index.js"
+	],
+	"ignore": [
+		".*"
+	],
+	"dependencies": {
+		"class-extender": "~1.0.5",
+		"class-emit": "~1.0.1"
+	},
+}
