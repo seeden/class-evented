@@ -17,5 +17,5 @@
 	"dependencies": {
 		"class-extender": "~1.0.6",
 		"class-emit": "~1.0.1"
-	},
+	}
 }
