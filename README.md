@@ -1,4 +1,3 @@
-class-evented
-=============
+#Class Evented
 
-Evented
+# This module is deprecated. Please use ES6 and extend EventEmitter or module events.

@@ -1,7 +1,7 @@
 {
 	"name": "class-evented",
 	"description": "Simple class evented",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"keywords": [
 		"class",
 		"emit",
